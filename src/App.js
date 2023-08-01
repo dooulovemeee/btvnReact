@@ -71,7 +71,7 @@ function App() {
   return (
     <div className="App">
       <div className='d-flex align-start'>
-VKL
+
       <Sidebar/>
       </div>
       <div className='w-100'>
