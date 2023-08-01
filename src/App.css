@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.d-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  border: solid 1px rgb(219, 202, 202);
+  margin: 10px;
+  box-sizing: border-box;
+  width: 250px;
+  background-color:rgb(219, 202, 202) ;
+  border-radius: 6px;
+}
+.button-Xoa {
+  background-color: rgb(218, 73, 73);
+  color: white;
+  border-radius: 4px;
+}
+.button-Xoa:hover {
+  background-color: rgb(224, 123, 123);
+  transition: 0.5s ease;
+}
+.bill {
+  padding: 12px;
+  
+}
+.ten-hoa-don {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+  
+
+
